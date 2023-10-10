@@ -1,0 +1,1 @@
+Parei: 0 min da aula "Classe base de entidades"
